@@ -13,4 +13,4 @@ loan to particular person will be safe or not.
 R, R studio
 
 ##Research flow Diagram:
-![alt text]([http://url/to/ReserchFlow.png](https://github.com/SpandanaKalakonda/loanapprovalprediction/blob/main/ResearchFlow.png))
+![screenshot]([http://url/to/ReserchFlow.png](https://github.com/SpandanaKalakonda/loanapprovalprediction/blob/main/ResearchFlow.png))
